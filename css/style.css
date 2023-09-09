@@ -1,0 +1,101 @@
+.boletim {
+    width: 150px;
+    margin-left: 750px;
+    margin-top: -50px;
+    margin-bottom: 10px;
+}
+.covid {
+    margin-left: 1100px;
+    margin-top: 200px;
+}
+h2 {
+    text-align: center;
+    color: white;
+}
+h1 {
+    color:yellow;
+    
+}
+h4 {
+    text-align: center;
+    color:white
+}
+h5 {
+    text-align: center;
+    color:white
+}
+.boletim h1 {
+    margin-top: -25px;
+   
+}
+.boletim h2 {
+    margin-top: -20px;
+}
+.boletim h3 {
+    margin-left: 20px;
+    margin-top: 0px;
+    background-color:  rgb(61, 163, 61); /* Define a cor de fundo como verde */
+    display: inline-block; /* Faz com que o elemento tenha apenas o tamanho necessário */
+    padding: 10px 20px; /* Ajuste o espaçamento conforme necessário */
+    border-radius: 5px; /* Adiciona cantos arredondados ao retângulo */
+    color: white; /* Define a cor do texto como branco */
+}
+.mask {
+    margin-top: -25px;
+    text-align: center;
+}
+/* Estilize a linha com CSS */
+.linha-verde {
+    margin-top: -20px; 
+    border: none;
+    background-color: rgb(122, 215, 122); /* Define a cor verde */
+    height: 4px; /* Define a altura da linha */
+    width: 500px;
+}
+body {
+    background-color: rgb(84, 21, 143);
+   }
+.table h4 {
+    margin-top: 0px;
+    margin-right: 0px; 
+}
+.numero0 {
+    margin-left: 300px; /* Ajuste o valor conforme necessário */
+    font-weight: bold
+}
+.numero1 {
+    margin-left: 320px; /* Ajuste o valor conforme necessário */
+    font-weight: bold
+}
+.numero2 {
+    margin-left: 320px; /* Ajuste o valor conforme necessário */
+    font-weight: bold
+}
+.numero3 {
+    margin-left: 370px; /* Ajuste o valor conforme necessário */
+    font-weight: bold
+}
+.numero4 {
+    margin-left: 415px; /* Ajuste o valor conforme necessário */
+    font-weight: bold
+}
+.numero5 {
+    margin-left: 340px; /* Ajuste o valor conforme necessário */
+    font-weight: bold
+}
+.numero6 {
+    margin-left: 310px; /* Ajuste o valor conforme necessário */
+    font-weight: bold
+}
+.numero7 {
+    margin-left: 320px; /* Ajuste o valor conforme necessário */
+    font-weight: bold
+}
+.prefeitura {
+    margin-left: 920px; 
+}
+.prefeituraIcon h5 {
+    margin-top: 0px;
+    text-align: center;
+    color:yellow
+}
